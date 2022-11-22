@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\bin\Debug\net6.0\OFD-Reader_CLI.exe
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\bin\Debug\net6.0\OFD-Reader_CLI.deps.json
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\bin\Debug\net6.0\OFD-Reader_CLI.runtimeconfig.json
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\bin\Debug\net6.0\OFD-Reader_CLI.dll
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\bin\Debug\net6.0\OFD-Reader_CLI.pdb
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\obj\Debug\net6.0\OFD-Reader_CLI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\obj\Debug\net6.0\OFD-Reader_CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\obj\Debug\net6.0\OFD-Reader_CLI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\obj\Debug\net6.0\OFD-Reader_CLI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\obj\Debug\net6.0\OFD-Reader_CLI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\obj\Debug\net6.0\OFD-Reader_CLI.dll
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\obj\Debug\net6.0\refint\OFD-Reader_CLI.dll
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\obj\Debug\net6.0\OFD-Reader_CLI.pdb
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\obj\Debug\net6.0\OFD-Reader_CLI.genruntimeconfig.cache
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\obj\Debug\net6.0\ref\OFD-Reader_CLI.dll
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\codes\C#\skola\OFD-Reader_CLI\obj\Debug\net6.0\OFD-Reader_CLI.csproj.CopyComplete
